@@ -1,4 +1,5 @@
 # Awesome JavaScript
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/CharlestonJS/awesome-javascript?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 A collection of awesome browser-side  JavaScript libraries, resources and shiny things.
 
